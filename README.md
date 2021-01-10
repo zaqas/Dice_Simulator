@@ -1,6 +1,7 @@
 Dice Simulator
 ----
 
+<img src="image/dice_simulation.png" width="400" height="400" />
 
 ## 💻 Usage
 
